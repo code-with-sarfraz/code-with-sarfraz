@@ -29,9 +29,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
 
-![Sarfraz Afzal GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Sarfraz Afzal GitHub stats](https://github-readme-stats.vercel.app/api?username=sarfraz afzal&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfraz afzal&theme=dark)
 
 
 <br>
