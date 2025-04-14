@@ -27,7 +27,6 @@
 </div>
 
 ### Languages and Tools:
-### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
 
 ![Sarfraz Afzal GitHub stats](https://github-readme-stats.vercel.app/api?username=code-with-sarfraz&show_icons=true&theme=dark)
